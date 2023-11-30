@@ -1,6 +1,6 @@
 # INLA_groupCV
 
-This repository contains the [**R code**](https://github.com/spatialstatisticsupna/INLA_groupCV/tree/main/R/) to reproduce the analyses of the paper entitled *"Automatics cross-validation in structured models: Is it time to leave out leave-one-out?"* (Adin et al., 2023).
+This repository contains the [**R code**](https://github.com/spatialstatisticsupna/INLA_groupCV/tree/main/R/) to reproduce the analyses of the paper entitled *"Automatics cross-validation in structured models: Is it time to leave out leave-one-out?"* [(Adin et al., 2023)](https://arxiv.org/abs/2311.17100).
 
 ## Table of contents
 
@@ -83,6 +83,6 @@ The purpose of the study presented in the Supplementary Material of the paper is
 
 
 # References
-[Adin, A., Krainski, E., Lenzi, A., Liu, Z., Mart\'inez-Minaya, J., and Rue, H. (2023). Automatic cross-validation in structured models: Is it time to leave out leave-one-out?. *arXiv preprint*.
+[Adin, A., Krainski, E., Lenzi, A., Liu, Z., Mart\'inez-Minaya, J., and Rue, H. (2023). Automatic cross-validation in structured models: Is it time to leave out leave-one-out?. *arXiv preprint*.](https://arxiv.org/abs/2311.17100)
 
 [Liu, Z., and Rue, H. (2022). Leave-group-out cross validation for latent Gaussian models. *arXiv preprint*.](https://doi.org/10.48550/arXiv.2210.04482)
