@@ -7,6 +7,7 @@ This repository contains the [**R code**](https://github.com/spatialstatisticsup
 -   [Section 3: Evaluating cross-validation measures in structured models](#section-3-evaluating-cross-validation-measures-in-structured-models)
 -   [Section 4: Applications](#section-4-applications)
 -   [Supplementary Material](#supplementary-material)
+-   [Acknowledgements](#Acknowledgements)
 -   [References](#references)
 
 # Section 3: Evaluating cross-validation measures in structured models
@@ -81,6 +82,11 @@ Here, we illustrate how to use the LGOCV procedure to perform cross-validation o
 
 The purpose of the study presented in the Supplementary Material of the paper is to evaluate the ability of the automatic groups generated from different model candidate models in the context of model selection. All the scripts to reproduce the study are available at this [folder](./R/Supplement/).
 
+# Acknowledgements
+
+This research has been supported by the projects PID2020-113125RBI00/MCIN/AEI/10.13039/501100011033 and PID2020-115882RB-I00.
+
+![](./micin-aei.jpg)
 
 # References
 [Adin, A., Krainski, E., Lenzi, A., Liu, Z., Martínez-Minaya, J., and Rue, H. (2024). Automatic cross-validation in structured models: Is it time to leave out leave-one-out?. *Spatial Statistics*, 62, 100843.](https://doi.org/10.1016/j.spasta.2024.100843)
